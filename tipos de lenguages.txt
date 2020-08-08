@@ -1,0 +1,25 @@
+ lenguajes de programación imperativos y lenguajes de programación declarativos
+
+el lenguaje imperativos es un tipo de lenguajes donde las instrucciones se ejecutan
+una tras otra, demanera secuencial, salvo cuando se encuentran estructuras de control
+condiciones o bucles mientras que el lenguage declarativo se basa mas en la matematica
+y en la logica mas cercano a esto al razonamiento humano, los lenguages declarativos no
+dicen como hacer una cosa, sino mas bien que cosa hacer 
+
+Ejemplo de leguage imperativo
+
+Fortran.
+Java.
+Pascal.
+ALGOL.
+C.
+C#
+C++
+
+
+Ejemplo de leguages declarativos
+
+Haskell (Programación funcional)
+ML (Programación funcional)
+Curry (Programación lógico-funcional)
+SQL
